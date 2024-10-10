@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.572235,
+          37.312291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "AGRIGENTO"
+      },
+      "id": "QyMzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.216797,
+          46.141783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BELLUNO"
+      },
+      "id": "M0MzE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.35437,
+          46.498392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BOLZANO"
+      },
+      "id": "k4NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.203552,
+          45.535213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BRESCIA"
+      },
+      "id": "QxMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          17.94342,
+          40.63063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BRINDISI"
+      },
+      "id": "k3MDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.118652,
+          39.232253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CAGLIARI"
+      },
+      "id": "U3MjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          15.095215,
+          37.51844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CATANIA"
+      },
+      "id": "g2MDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.254272,
+          39.31305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "COSENZA"
+      },
+      "id": "U0Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.244507,
+          43.771094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "FIRENZE"
+      },
+      "id": "QwNTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          15.545654,
+          41.467428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "FOGGIA"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.923645,
+          44.422011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "GENOVA"
+      },
+      "id": "UwODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.625793,
+          45.948285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "GORIZIA"
+      },
+      "id": "E2Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.783081,
+          45.166547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "MANTOVA"
+      },
+      "id": "k5NTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.18457,
+          45.467836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "MILANO"
+      },
+      "id": "c5NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.269714,
+          45.573678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "MONZA"
+      },
+      "id": "M3ODE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.596802,
+          39.918163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "ORISTANO"
+      },
+      "id": "kzNjk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.318657,
+          44.805434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PARMA"
+      },
+      "id": "k3MTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.169617,
+          42.455888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PESCARA"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.65213,
+          45.961652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PORDENONE"
+      },
+      "id": "A5MTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.502441,
+          41.853196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "ROMA"
+      },
+      "id": "g1NzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.789703,
+          45.069641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "ROVIGO"
+      },
+      "id": "IzNjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.555603,
+          40.720201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SASSARI"
+      },
+      "id": "AzODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.699951,
+          42.662241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TERAMO"
+      },
+      "id": "MwNzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.684937,
+          45.069641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TORINO"
+      },
+      "id": "kzOTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.123657,
+          46.06942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TRENTO"
+      },
+      "id": "MyMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.240829,
+          45.666366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TREVISO"
+      },
+      "id": "g1Mzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          12.329407,
+          45.429299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VENEZIA"
+      },
+      "id": "UzNzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.556976,
+          45.934438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VERBANIA"
+      },
+      "id": "gxNzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.987701,
+          45.437972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VERONA"
+      },
+      "id": "YwMzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.535645,
+          45.546755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VICENZA"
+      },
+      "id": "kwOTA"
+    }
+  ]
+}
